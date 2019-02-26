@@ -1,0 +1,16 @@
+#bar-holder{
+	width: 500px;
+	padding-top: 20px;
+}
+
+.progress-bar{
+	float: left;
+	margin: 10px;
+}
+
+rect.bar-back{
+	fill: #eaeaea;
+}
+rect.bar-main{
+	fill: #173f5f;
+}
